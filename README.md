@@ -1,5 +1,8 @@
 # Getting Started
 
+### Require node 23.6.1^
+
+
 Clone the repository:
 ```shell
 git clone https://github.com/Daisigu/nodejs-starter.git
